@@ -1,1 +1,7 @@
-# MatplotlibHomework
+# Matplotlib Homework
+
+1. Individual mouse data on Capomulin: It appears that the drug was able to decrease the size of the tumor on Mouse x401 somewhat immediately. Within the first 5 timepoints the tumor increased in size, but from that point onward it decreased significantly going from 45 mm3 at the 5th timepoint to 28 mm3 at the 40th timepoint. We saw a similar scenario with mouse s185 showing that this medication may be able to reduce the size of tumors.
+
+2. We found there is a positive correlation between the size of the tumor and the total weight of the mouse. The correlations between weight in grams and tumor volume in mm3 is 0.53. This could mean that the tumor is having a substancial impact on the increase of weight of each individual mouse. It also shows that there isn't significant weight loss as an effect of increased size of tumors. Using predictive analytics we can estimate that if a mouse from this study gets to a weight of 30 grams the tumor size will be around 50.32 mm3. We can also assume that if a mouse significantly decreases weight down to 10 grams, the tumor will be around 31.1 mm3 in size.
+
+3. Comparing the four drugs of there is a larger positive correlation between tumor volume and weight of mice on Capomulin and Ramicane vs. Infubinol and Ceftamin. There is also evidence that Capomulin and Ramicane are able to decrease the size of tumors on mice more quickly than Infubinol and Ceftamin. Based on the results of this study, if the goal is to decrease tumor size, Capomulin and Ramicane are stronger choices than Infubinol and Ceftamin.
